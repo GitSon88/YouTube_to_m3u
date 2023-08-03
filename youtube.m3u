@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Wrestling" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPoiBNsYAaAMj_DIATAfQJDt4BHVI3-xpAKrmlJeEg=s176-c-k-c0x00ffffff-no-rj" tvg-id="", WWE YouTube
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1691044727/ei/F_fKZJC8FOWp_9EP-4KigAk/ip/172.177.106.93/id/2TBgJUhjsWA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9fz0YSLY1D4S7d00Gwz_ZDsfNE0p04MZzF27XZw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000012/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgV0aCqyDYiJpYBvePOmY98vgBqTosAGVQMa_lhs3j6ZgCIQCt5NzfX5Bmh3zELiuAQTyqBc3dYMv2ojbTXwdHhXJeWA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1691049261/ei/zQjLZMmHCLWvsfIP-42a4AI/ip/13.91.165.206/id/2TBgJUhjsWA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f71xVohy8QuWNrNKpc9vfAiOJiA5-BVFEKD1_w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362686/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgWTLKC4GzwAHHP4hjOV6Xv0M3Rlj9T8m-3L3-ixkEeBQCIQC46IMRHFemZ_Jpd6WjIQPb9DZrhO0EqbSDeFBcQWh2Bw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Wrestling" tvg-logo="https://yt3.googleusercontent.com/HR8jPpBjWAi-cyMb3pFuV0NTzy7IgvjtneMcGxZP5VK6g7t665ZVM41h4EBOA0mn1ESgQ-5C=s176-c-k-c0x00ffffff-no-rj" tvg-id="", AEW YouTube
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Political Podcast" tvg-logo="https://yt3.googleusercontent.com/H8ue4pdyqKdVaSmart-HSFNlLbH_HDsz0zg-AyYXGbeFXOQHXD2YYIeE0V6rlEMKCA8vV_Db0Q=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Charlie Kirk
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1691049264/ei/0AjLZJDoFOi7sfIP0-iRuAQ/ip/13.91.165.206/id/1E2Dn8qwzIE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyTyz7tO7b9DM5m7cwml7FIkCnI5VCyRWdqC6A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMagVoOWGMYF9DMndQTqQ9MGk3dfrm9V_zMpINuX4WkyAiEAg1ApDlmiLa3DNqAsAOX0Qx6o4lOdZ3b3GmxXzfosq9U%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Wrestling" tvg-logo="https://yt3.googleusercontent.com/MCKVYMDuebBRFItizvO0Mm1NJ9Vwtck28LuDc3aMHPt-diJgLZAFGewVIdRoekggd8wxFsrx=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Ring of Honor LIVE
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
