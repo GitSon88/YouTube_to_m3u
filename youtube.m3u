@@ -42,10 +42,10 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/Xy6cJ4YtLEjte-7oFpUr2Ewxagq9uuN4U2oiKflXbg8AFl_ZHonCMm2OQk94q_yBA9Ru-KJDoio=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Right Side Broadcasting Network
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694210896/ei/8Eb7ZKyUKYXN8wSG-piwDg/ip/20.57.41.242/id/JpfNYG0obkc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4L-fMEdUNRxKh21M60HAcxin-Jf4MrXD4M-Ng/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJ3e0IAIYgkxGy0hF_6qQyvLauWOdINRu6VVS3sgmWuwAiA2_F0bgTtJAJR0Ndzd14mNnhq7eJuqessDNDjFAjnDhQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Political Podcast" tvg-logo="https://yt3.googleusercontent.com/H8ue4pdyqKdVaSmart-HSFNlLbH_HDsz0zg-AyYXGbeFXOQHXD2YYIeE0V6rlEMKCA8vV_Db0Q=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Charlie Kirk
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694210897/ei/8Ub7ZPj4KIjY4QTMnbjIAQ/ip/20.57.41.242/id/xUCHnshiqsY.1/source/yt_live_broadcast/requiressl/yes/tx/24388768/txs/24388767%2C24388768%2C24388769%2C24388770%2C24388771%2C24388772%2C24388773/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0dVoiGxGDaNcCXV3ZrD7BWfaiR0y6N2A1d5vw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363391/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAI_t91hOIBQ7VqggXkYYBHClhAFwGkD_kFJCCfNH9ZMNAiBZiJCBnQlC4SFtsCjJ5En4poZiDusfjYjT1jp2sm724w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Wrestling" tvg-logo="https://yt3.googleusercontent.com/MCKVYMDuebBRFItizvO0Mm1NJ9Vwtck28LuDc3aMHPt-diJgLZAFGewVIdRoekggd8wxFsrx=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Ring of Honor LIVE
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
