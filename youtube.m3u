@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Wrestling" tvg-logo="https://yt3.googleusercontent.com/LxgvHIFqS8sFGOo2SrrH6iDlw4Nsf0nycSBJBm9oddaUYOlAZBB_9Oye4NDDZoFCA42MTDxsVPY=s176-c-k-c0x00ffffff-no-rj" tvg-id="", POST Wrestling Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694826292/ei/1KoEZc_KKIaD6QLttof4Cw/ip/40.86.18.89/id/P96G88ssQxc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8ruR-WkQtNQwL7lW7vUG0GPH9m2XPHCnJjsrQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgWxCTprbOxA2BGYhdcDizeCZU7wZK6mt5LG4HRjd_--8CIQCwutI0k7nmQzFs-tiy3VgTLfG7ZkcImeoxkYf7byLoIg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Political Podcast" tvg-logo="https://i.ytimg.com/vi/2Kd7042PUKc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4sk_L5NXEPpNRbkELAOnptIkYpQ" tvg-id="", CobraCastIRL
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Political Podcast" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMvaWpbljX6fLzV2EFg5_EXxQgdbR6R2j2Oqsw-6A=s176-c-k-c0x00ffffff-no-rj" tvg-id="", The Quartering
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694822917/ei/pZ0EZdqmBKmV_9EPo4OF2AU/ip/172.176.238.17/id/eeytlVaUA9A.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8EExPltSFepo7AmFwMptcA73Z_HWrJIdxbSDA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgHnNW7ynal4cqab4hGIRhhwFBYS_54QXpsX7AkxkAEtgCIQD4KfBpAe4u_gTvpwToQo95K4_N49O1A6MBtESF5vg_HQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/Xy6cJ4YtLEjte-7oFpUr2Ewxagq9uuN4U2oiKflXbg8AFl_ZHonCMm2OQk94q_yBA9Ru-KJDoio=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Right Side Broadcasting Network
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
