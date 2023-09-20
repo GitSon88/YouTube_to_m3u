@@ -15,7 +15,7 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Wrestling" tvg-logo="https://yt3.googleusercontent.com/oBdqmxfmTutDSSHKnJcXPW45Hn5cSbjZvHzLnxkjaVzdWlddDjR9TjthXjv4Jqpxja3DAEg49w=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Fightful TV Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695200855/ei/92EKZe74JtDRlu8PwbaI0A4/ip/40.84.176.205/id/P5R-u9Y2kGA.1/source/yt_live_broadcast/requiressl/yes/tx/24384773/txs/24384770%2C24384771%2C24384772%2C24384773%2C24384774%2C24384775%2C24384776/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5IIwk8RufJpgBsm52RtJQxjVS2Cd6zsL9FMDw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgfprsNfX1hL2XDiFQM-yxPwyQ7MjdKRpoJyWBOuMztNgCIFO2IJMtV4n0Y76lTF1OqMgXz3H3QpICj2g3rzoyqax6/file/index.m3u8
 
 #EXTINF:-1 group-title="Wrestling" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqM0c71O73VxVTNpYUyl_nMdM9Yp55SIgS1-foql=s176-c-k-c0x00ffffff-no-rj" tvg-id="", F4W TV Live
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Wrestling" tvg-logo="https://yt3.googleusercontent.com/LxgvHIFqS8sFGOo2SrrH6iDlw4Nsf0nycSBJBm9oddaUYOlAZBB_9Oye4NDDZoFCA42MTDxsVPY=s176-c-k-c0x00ffffff-no-rj" tvg-id="", POST Wrestling Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695197646/ei/blUKZbvMKtjhvPIPqtiPkAo/ip/52.150.24.74/id/fg4VqIYHvuQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f69GSa0SZPSJ5Kv__G_XrdIbzNx_B7Gdk7GUQA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALCJZUdKq6V2Hja5vGLiwCPcADW6abLo199NnaGOJWFUAiEAiRDWDojWUm2vFRZacH13IE6KlP1FeCj_GG_1vvSxqAo%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695200857/ei/-WEKZfm_IISb_tcPtLG0kAI/ip/40.84.176.205/id/fg4VqIYHvuQ.1/source/yt_live_broadcast/requiressl/yes/tx/24384770/txs/24384770%2C24384771%2C24384772%2C24384773%2C24384774%2C24384775%2C24384776/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_ztrosCdILd_20O7wvia26xN8Eteby0M54jKQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAN3CiRy0pWoG7zJucwhDbmbZBI3BFI50KgVdPmjgtixyAiA-MRXt1iA3FzE7T90l4dDMl_Mq4Du59sn9aiTPj-4EAg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Political Podcast" tvg-logo="https://i.ytimg.com/vi/2Kd7042PUKc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4sk_L5NXEPpNRbkELAOnptIkYpQ" tvg-id="", CobraCastIRL
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
