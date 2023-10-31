@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Political Podcast" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOmlX_snTYKG-BNSm4wxUBCWgQLSkYHalV8pzTAKA=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Jason Bermas
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1698779343/ei/b_xAZb3HFrij0_wP6Jab8AM/ip/20.42.21.2/id/b2bi0XLLOsM.1/source/yt_live_broadcast/requiressl/yes/tx/51012156/txs/51012155%2C51012156%2C51012157/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0uVcntQ6yXQJfuOUwYCpbJJTAc5JzxT1_IyBA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRgIhAKz8FsOvVHy71yvbhNkf0H9XIxpARCrOlz3IkbXZmn29AiEA20IO6UusPBcxJZ8SvZzamSucpkSBSl4R8fgKvpikLqc%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Wrestling" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPoiBNsYAaAMj_DIATAfQJDt4BHVI3-xpAKrmlJeEg=s176-c-k-c0x00ffffff-no-rj" tvg-id="", WWE YouTube
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
