@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Political Podcast" tvg-logo="https://i.ytimg.com/vi/2Kd7042PUKc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4sk_L5NXEPpNRbkELAOnptIkYpQ" tvg-id="", CobraCastIRL
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701935361/ei/oSRxZZfVLfXGir4PuoOWyAI/ip/172.183.107.246/id/lFKFeQAKrX0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f48auL7yjSwbTCPOL91H7ESYrEoprqjI1fE0TQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgUHN5Is47QfUIA9xyMCT07CExgqnE5hfpcEXEYPH9glgCIQD3ZsNt8sTjdYusVGefk2g_1xU9e7d1kIH40ygsAUD0rA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Political Podcast" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOmlX_snTYKG-BNSm4wxUBCWgQLSkYHalV8pzTAKA=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Jason Bermas
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
