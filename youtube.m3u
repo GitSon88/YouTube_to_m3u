@@ -15,16 +15,16 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Wrestling" tvg-logo="https://yt3.googleusercontent.com/oBdqmxfmTutDSSHKnJcXPW45Hn5cSbjZvHzLnxkjaVzdWlddDjR9TjthXjv4Jqpxja3DAEg49w=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Fightful TV Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704334075/ei/m76VZZSREJCAy_sP1cukoAI/ip/20.75.95.99/id/Ov9nA37VboM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyT3iYFti15ZIa8q8kzGCCCVRAkyBGTjd32IaQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAI_aQ7EUp_FiApcFhSfZrrC04mp74mBiHhk7J-DitzCcAiBZdy0mjD2dIUDspC9fnuqe5L8zEyQdsjzRb921w0GBsA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Wrestling" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqM0c71O73VxVTNpYUyl_nMdM9Yp55SIgS1-foql=s176-c-k-c0x00ffffff-no-rj" tvg-id="", F4W TV Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704334075/ei/m76VZarMKfGR_9EPg4ya2AY/ip/20.75.95.99/id/qIY1rwYnjS0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9fzAClmSWLy1lfhKIV365aEpqs-fE81FIb4wpWg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALI_7rWDyrDr8GmaXF6Iy5os4XiGrQvVplS3ldQm0N3JAiEA_1qAkw_UsXBpaM0RKqYqpB0suVfdg7EyGhpTAWryz9Q%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Wrestling" tvg-logo="https://yt3.googleusercontent.com/K4NYzoYhZdZSHjpFjqVim2mBg2tlsqk0hc8F3xQ7Iy3gCLHQob6iIApc2vBiWjJGLUpTYCzoYg=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Solomonster Sounds Off Live
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Wrestling" tvg-logo="https://yt3.googleusercontent.com/LxgvHIFqS8sFGOo2SrrH6iDlw4Nsf0nycSBJBm9oddaUYOlAZBB_9Oye4NDDZoFCA42MTDxsVPY=s176-c-k-c0x00ffffff-no-rj" tvg-id="", POST Wrestling Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704334076/ei/nL6VZZTzJoW2_9EPyKOJ8AU/ip/20.75.95.99/id/zcoVsJJ35aI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fysY0llVUvNvap1ObqFGxuyCJgUZQy1ArvjjmQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgC9rDC2AHd27XlgYZd1qPuqKSr6V1S0OPDzVBhstd434CIQCG-CB0RspxDddbVIHA0j3Wr3Msmt-Tcnqrb-ot_5pNGA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Political Podcast" tvg-logo="https://i.ytimg.com/vi/2Kd7042PUKc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4sk_L5NXEPpNRbkELAOnptIkYpQ" tvg-id="", CobraCastIRL
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
