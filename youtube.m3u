@@ -15,7 +15,7 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Wrestling" tvg-logo="https://yt3.googleusercontent.com/oBdqmxfmTutDSSHKnJcXPW45Hn5cSbjZvHzLnxkjaVzdWlddDjR9TjthXjv4Jqpxja3DAEg49w=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Fightful TV Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705003613/ei/_fWfZeDzKs2xsfIPl-a34Aw/ip/52.225.76.191/id/vuhlrvMOqq4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2Iq1de9fDJYRJ3g66keuXAtjF9Wz4x6vJAxj6gEvtQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKeU2sQ9yw_0sMgZRP1_bZKfnm4zRO8w4r7qtSDGyG0xAiEAteu-vh_toCe6eBjtERl94rKZEijHCy1_tWxLR4oi9_E%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Wrestling" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqM0c71O73VxVTNpYUyl_nMdM9Yp55SIgS1-foql=s176-c-k-c0x00ffffff-no-rj" tvg-id="", F4W TV Live
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Wrestling" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPoiBNsYAaAMj_DIATAfQJDt4BHVI3-xpAKrmlJeEg=s176-c-k-c0x00ffffff-no-rj" tvg-id="", WWE YouTube
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705003616/ei/APafZZvhIf6ZsfIP4dKWkA0/ip/52.225.76.191/id/ZzLVHuJ-iAk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51033619/txs/51033612%2C51033613%2C51033614%2C51033615%2C51033616%2C51033617%2C51033618%2C51033619%2C51033620/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f7yac5j9rrTQy3au1CJZJibwCIukkgctmSl7VaQYM1g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgNESgiGu5o_Tli3veJlIAVQ3lHDXp-USlAvCUwYqh6YMCIQDrL-bMSkbd7Lqq7ITAI0Hredj7yzdgJZgdaumY2RGAMQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Wrestling" tvg-logo="https://yt3.googleusercontent.com/HR8jPpBjWAi-cyMb3pFuV0NTzy7IgvjtneMcGxZP5VK6g7t665ZVM41h4EBOA0mn1ESgQ-5C=s176-c-k-c0x00ffffff-no-rj" tvg-id="", AEW YouTube
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
