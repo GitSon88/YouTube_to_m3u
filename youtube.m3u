@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Political Podcast" tvg-logo="https://i.ytimg.com/vi/2Kd7042PUKc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4sk_L5NXEPpNRbkELAOnptIkYpQ" tvg-id="", CobraCastIRL
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709706796/ei/zLnnZZu2Fa-T_9EP7byjgA4/ip/20.55.222.98/id/9rsnDZi6i4E.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9nsArdKPLXN6jKBiih_vv4ZsJrJpS_NoQuKg1DSGNs/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgPRLbAWolH4GsALv9rEzc_KwLMnOQj76C35V96Ki_vlYCIQCoTOSziT-nGPhVKuOIoPlBE3tggyXO9MaIm-4a3y6K2Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Political Podcast" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOmlX_snTYKG-BNSm4wxUBCWgQLSkYHalV8pzTAKA=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Jason Bermas
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/Xy6cJ4YtLEjte-7oFpUr2Ewxagq9uuN4U2oiKflXbg8AFl_ZHonCMm2OQk94q_yBA9Ru-KJDoio=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Right Side Broadcasting Network
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709706799/ei/z7nnZZWwBvqg_9EPsPWiiAM/ip/20.55.222.98/id/yF2yw_qDxRQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fy_3zBfgDKjAkuYNK67RsMMS7HWqsoPXzpeqEvYakDQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMN--n2zjDdDFnz8WOo8G0n7OIBtUmevQjxduj6r-GfGAiEAohNEqgMs2mq-566GCJPsT2MZGoHJeqyPMk9Ckeij1i8%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Political Podcast" tvg-logo="https://yt3.googleusercontent.com/H8ue4pdyqKdVaSmart-HSFNlLbH_HDsz0zg-AyYXGbeFXOQHXD2YYIeE0V6rlEMKCA8vV_Db0Q=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Charlie Kirk
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -51,4 +51,4 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Wrestling" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOOXYs4lmT44kQC1Kn1z3msK3hqjYlpxbQNZE4jnQ=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Cultaholic
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709701615/ei/j6XnZb7RAaq-_9EPm9OekAg/ip/20.81.159.128/id/z3sP6s_4D5E.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9fw14SzqfulOgmAymXNPc384iedErsZKXiZeGTpvk7RI/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgCmHOpmsI4Z4S38AyAkwAgC0oNlw3GQNpOgIk9KbgHXkCIQDDz3_yIy_yuWp64dfkqZ9rVSCL-irWvtj61lyivMh-TA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
