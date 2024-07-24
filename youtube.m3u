@@ -18,13 +18,13 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Wrestling" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqM0c71O73VxVTNpYUyl_nMdM9Yp55SIgS1-foql=s176-c-k-c0x00ffffff-no-rj" tvg-id="", F4W TV Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721869586/ei/slChZq-WJNaEkucPv-W1uAE/ip/20.84.127.100/id/uLzmFmE_vd0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/NO7bAX59gBByf-ZngQzgrOlCnF0pfdudQGpy8k4pyVUSETiW8L07OAc6JyWQJsk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANNeHNqgfPF-U_Wm24y_QyLUBXcN0V0hFQPGb4lcMJy7AiEA395CK13E16_VlXz7hzuqr22KhEgegG9LynNKDaXFeIE%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Wrestling" tvg-logo="https://yt3.googleusercontent.com/K4NYzoYhZdZSHjpFjqVim2mBg2tlsqk0hc8F3xQ7Iy3gCLHQob6iIApc2vBiWjJGLUpTYCzoYg=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Solomonster Sounds Off Live
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Wrestling" tvg-logo="https://yt3.googleusercontent.com/LxgvHIFqS8sFGOo2SrrH6iDlw4Nsf0nycSBJBm9oddaUYOlAZBB_9Oye4NDDZoFCA42MTDxsVPY=s176-c-k-c0x00ffffff-no-rj" tvg-id="", POST Wrestling Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721869587/ei/s1ChZtreGKeKkucPr5q6qAY/ip/20.84.127.100/id/PyrHVFnI6yI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAeC8tPIbscog_EyWlM0U_r0SaX7NOcQIRa2V4gd8kXBfQ4OcNft7PtA_G1Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKPDK4DQkbcdrHOFdTnj8j5WQ8OnqSkZaeCDFbbsP0vhAiEA2fG80S9Dg2GThwh8TDB7OKh3J_rVhuDMI-TKegJhppk%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Political Podcast" tvg-logo="https://i.ytimg.com/vi/2Kd7042PUKc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4sk_L5NXEPpNRbkELAOnptIkYpQ" tvg-id="", CobraCastIRL
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/Xy6cJ4YtLEjte-7oFpUr2Ewxagq9uuN4U2oiKflXbg8AFl_ZHonCMm2OQk94q_yBA9Ru-KJDoio=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Right Side Broadcasting Network
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721866298/ei/2kOhZo7QB-exlu8Pj-LjkQ8/ip/172.183.147.205/id/5frGFraetC4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181297/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAZiMTJ4fIucj3fQWw4NLmXivoJBuPrcaEJ8LXI9yiJPCG3ZyzPm6zHrcEf8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgJGYPgLyLCu49hbD4GkOk64zymmT8_HZ1VoY2bgQ_6TsCIFDjtdHIG0JgJL9f-ak2D9wUKJlf9r4yhBlf2bczA7-C/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721869589/ei/tVChZquGMpSAkucP5eSg6Aw/ip/20.84.127.100/id/5frGFraetC4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAf6Tr1ppRGVbe_ibJlgtNkGj94d6qZuCQuedMi5cGUuhNHgC2VZAdsxsh4U/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgAtYnDwRoK-NNLjv0-R7hQxi8IryfAHuNP0--vYAHgXYCIQCgWjnK4aLo6q1ZIpJNyOgo_KXxN8_9Cn7ksXvqUJLb7w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Political Podcast" tvg-logo="https://yt3.googleusercontent.com/H8ue4pdyqKdVaSmart-HSFNlLbH_HDsz0zg-AyYXGbeFXOQHXD2YYIeE0V6rlEMKCA8vV_Db0Q=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Charlie Kirk
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
